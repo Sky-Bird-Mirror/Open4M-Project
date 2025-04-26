@@ -1,1 +1,4 @@
-*.md linguist-language=C
+*.md linguist-language=C++
+*.7z linguist-language=C++
+*.exe linguist-language=C++
+LICENSE linguist-language=C++
