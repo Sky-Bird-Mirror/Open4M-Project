@@ -1,4 +1,2 @@
-*.md linguist-language=C++
-*.7z linguist-language=C++
-*.exe linguist-language=C++
-LICENSE linguist-language=C++
+* filter=lfs diff=lfs merge=lfs -text
+*.* filter=lfs diff=lfs merge=lfs -text
